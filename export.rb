@@ -1,5 +1,5 @@
 # NOTE: THIS IS A QUICK SCRIPT I WROTE TO EXPORT SOME DATA TODAY. USE AT YOUR OWN RISK. THERE'S NOTHING REALLY DANGEROUS HERE, JUST SOME BADLY WRITTEN AND UNTESTED CODE
-# TO RUN: open a terminal and type "irb" without quotes to get a Ruby REPL. Replace the environment variables. Copy and paste the code and press enter. Then check for the filename in the same directory.
+# TO RUN: Install the 'sendgrid-ruby' gem, open a terminal and type "irb" without quotes to get a Ruby REPL. Replace the environment variables. Copy and paste the code and press enter. Then check for the filename in the same directory.
 # FOR NEW ACCOUNTS USE THE API EXPORT ENDPOINT
 
 require 'sendgrid-ruby'
